@@ -1,7 +1,3 @@
-variable "kubernetes_cluster_id" {
-  type = string
-}
-
 variable "kubernetes_cluster_cert_data" {
   type = string
 }
